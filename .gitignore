@@ -1,0 +1,12 @@
+*.tar
+*.tar.gz
+*.pyc
+*.avi
+checkpoints/*
+./genvideos/*
+./videos/*
+./trainvideos/*
+*.mp4
+*.jpg
+*.pdf
+images/*
